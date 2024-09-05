@@ -1,14 +1,10 @@
 {
   "title": "Warcraft RPG - 5e",
   "description": "Conversion of the official Warcraft Role Playing Game: https://drive.google.com/drive/folders/0B1FoMHLY1oOtLUlNdTZXYzVNY0k.",
-  "url": "https://github.com/ArthegaAsdweri/foundryvtt-warcraft5e",
+  "url": "https://github.com/Sauriel/foundryvtt-warcraft5e",
   "version": "0.2.2",
-  "esmodules": [
-    "scripts/warcraft5e.js"
-  ],
-  "styles": [
-    "styles/warcraft5e.css"
-  ],
+  "esmodules": ["scripts/warcraft5e.js"],
+  "styles": ["styles/warcraft5e.css"],
   "languages": [
     {
       "lang": "en",
@@ -250,8 +246,8 @@
       "type": "Item"
     }
   ],
-  "manifest": "https://github.com/ArthegaAsdweri/foundryvtt-warcraft5e/raw/master/module.json",
-  "download": "https://github.com/ArthegaAsdweri/foundryvtt-warcraft5e/archive/master.zip",
+  "manifest": "https://github.com/Sauriel/foundryvtt-warcraft5e/raw/master/module.json",
+  "download": "https://github.com/Sauriel/foundryvtt-warcraft5e/archive/master.zip",
   "id": "warcraft5e",
   "relationships": {
     "requires": [
@@ -273,6 +269,6 @@
   "compatibility": {
     "minimum": "9",
     "verified": "10.276",
-    "maximum": "10"
+    "maximum": "12"
   }
 }
